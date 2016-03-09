@@ -1,0 +1,617 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{arealplan}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6ad21b14b3cac7006393cfa7edbc652e}{Afdeling}{A\bibinitperiod}{Aalborg\bibnamedelimb Kommune\bibnamedelimb Magistratens\bibnamedelima 2.}{A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim 2\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6ad21b14b3cac7006393cfa7edbc652e}
+      \strng{fullhash}{6ad21b14b3cac7006393cfa7edbc652e}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1980}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lokalplan 10-010}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{1980}
+      \verb{url}
+      \verb http://apps.aalborgkommune.dk/images/teknisk/PLANBYG/lokplan/01/10-010.pdf
+      \endverb
+    \endentry
+    \entry{g9}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9632086609f4af552c2240fe8a159246}{a/s}{a\bibinitperiod}{G9}{G\bibinitperiod}{landskab\bibnamedelimb park\bibnamedelimb og\bibnamedelima byrum}{l\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim b\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{9632086609f4af552c2240fe8a159246}
+      \strng{fullhash}{9632086609f4af552c2240fe8a159246}
+      \field{sortinit}{a}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{extrayear}{1}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HÆVE-SÆNKE PULLERT}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.g9.dk/media/blfa_files/Luxor_pullert.pdf
+      \endverb
+    \endentry
+    \entry{g99}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9632086609f4af552c2240fe8a159246}{a/s}{a\bibinitperiod}{G9}{G\bibinitperiod}{landskab\bibnamedelimb park\bibnamedelimb og\bibnamedelima byrum}{l\bibinitperiod\bibinitdelim p\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim b\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{9632086609f4af552c2240fe8a159246}
+      \strng{fullhash}{9632086609f4af552c2240fe8a159246}
+      \field{sortinit}{a}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{extrayear}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Park og Stadsrum}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.g9-se.se/regulering-i-byrum.html
+      \endverb
+    \endentry
+    \entry{hs}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=71682fc5d916d85fffe20dd0e049f9a2}{BedrebillistApS}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{71682fc5d916d85fffe20dd0e049f9a2}
+      \strng{fullhash}{71682fc5d916d85fffe20dd0e049f9a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{extrayear}{1}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bedre bilist}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.bedrebilist.dk/trafiktavler-vejskilte/
+      \endverb
+    \endentry
+    \entry{e49}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=71682fc5d916d85fffe20dd0e049f9a2}{BedrebillistApS}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{71682fc5d916d85fffe20dd0e049f9a2}
+      \strng{fullhash}{71682fc5d916d85fffe20dd0e049f9a2}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{extrayear}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bedre bilist}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.bedrebilist.dk/trafiktavler-vejskilte/
+      \endverb
+    \endentry
+    \entry{kvn}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=81212c8e8c925a93d322a2d636440079}{Copenhagen\bibnamedelimb Business\bibnamedelimb School\bibnamedelima (CBS)}{C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim (\bibinitperiod}{Danmarks\bibnamedelimb Tekniske\bibnamedelimb Universitet\bibnamedelimb (DTU)\bibnamedelimb og\bibnamedelimb Københavns\bibnamedelimb Universitet\bibnamedelima (KU)}{D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim o\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim U\bibinitperiod\bibinitdelim (\bibinitperiod}{undervisere\bibnamedelima fra}{u\bibinitperiod\bibinitdelim f\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{81212c8e8c925a93d322a2d636440079}
+      \strng{fullhash}{81212c8e8c925a93d322a2d636440079}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{2015}
+      \field{labelmonth}{10}
+      \field{labelday}{27}
+      \field{datelabelsource}{url}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Det kvalitative interview}
+      \field{urlday}{27}
+      \field{urlmonth}{10}
+      \field{urlyear}{2015}
+      \verb{url}
+      \verb https://innovation.blogs.ku.dk/metode/det-kvalitative-interview/
+      \endverb
+    \endentry
+    \entry{bystorelse}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bedf208863be04517220936585a417b6}{Danske}{D\bibinitperiod}{Den\bibnamedelima Store}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bedf208863be04517220936585a417b6}
+      \strng{fullhash}{bedf208863be04517220936585a417b6}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aalborg}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.denstoredanske.dk/Danmarks_geografi_og_historie/Danmarks_geografi/Jylland/Jylland_-_byer/Aalborg
+      \endverb
+    \endentry
+    \entry{shopping}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=cf27fa0e2fb6b5c7b872efa1252099c6}{Denmark}{D\bibinitperiod}{Visit}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cf27fa0e2fb6b5c7b872efa1252099c6}
+      \strng{fullhash}{cf27fa0e2fb6b5c7b872efa1252099c6}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shopping i Aalborg}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.visitdenmark.dk/da/nordjylland/shopping/shopping-i-aalborg
+      \endverb
+    \endentry
+    \entry{omlaegning}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=bedef3752e42cc8501a95a23af0db2f8}{Fischer}{F\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bedef3752e42cc8501a95a23af0db2f8}
+      \strng{fullhash}{bedef3752e42cc8501a95a23af0db2f8}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trafik og Miljø i Aalborg – JUPITER og JUPITER 2 projekterne}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2000}
+      \verb{url}
+      \verb http://www.trafikdage.dk/td/papers/papers00/Dag1/paper/1203.pdf
+      \endverb
+    \endentry
+    \entry{gm2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8b36e9207c24c76e6719268e49201d94}{Google}{G\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{googlemaps}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb https://www.google.dk/maps
+      \endverb
+    \endentry
+    \entry{trafik}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=54881fb9f4006cf4b74c7f8e797c568e}{Jensen}{J\bibinitperiod}{Søren\bibnamedelima Underlien}{S\bibinitperiod\bibinitdelim U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{54881fb9f4006cf4b74c7f8e797c568e}
+      \strng{fullhash}{54881fb9f4006cf4b74c7f8e797c568e}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rundkørsler og trafiksikkerhed}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://asp.vejtid.dk/Artikler/2012/11%5C6461.pdf
+      \endverb
+    \endentry
+    \entry{aabcykelby}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0f6d3bb785ae84c5364be3c374fa2374}{Kommune}{K\bibinitperiod}{Aalborg}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{0f6d3bb785ae84c5364be3c374fa2374}
+      \strng{fullhash}{0f6d3bb785ae84c5364be3c374fa2374}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aalborg Cykelby}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.aalborgcykelby.dk/aalborg-cykelby
+      \endverb
+    \endentry
+    \entry{attraktiv}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9c1d8a67e4f0c87bda235cf26cae7207}{Kommuneplan}{K\bibinitperiod}{Aalborg}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{9c1d8a67e4f0c87bda235cf26cae7207}
+      \strng{fullhash}{9c1d8a67e4f0c87bda235cf26cae7207}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Aalborg Midtby}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://www.aalborgkommuneplan.dk/kommuneplanrammer/midtbyen/aalborg-midtby/default.aspx
+      \endverb
+    \endentry
+    \entry{vejdpdf}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=a2d3043570b761f6d46276e3ae0dafd9}{KTC\bibnamedelima (SAMKOM)}{K\bibinitperiod\bibinitdelim (\bibinitperiod}{Vejdirektoratet}{V\bibinitperiod}{og}{o\bibinitperiod}{}{}}%
+      }
+      \strng{namehash}{a2d3043570b761f6d46276e3ae0dafd9}
+      \strng{fullhash}{a2d3043570b761f6d46276e3ae0dafd9}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Registrering og klassificering af stier}
+      \field{year}{2011}
+      \verb{url}
+      \verb http://www.vejdirektoratet.dk/DA/vejsektor/samarbejde/kommuner/samkom/Documents/stiklassificering.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'vejdpdf' (bib/mybib.bib): Invalid format '2015-12-3' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{konflikt}{online}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=48688c38b30712ff421eecb9ef8f4731}{Lund}{L\bibinitperiod}{B.L.C.}{B\bibinitperiod}{}{}{}{}}%
+        {{uniquename=0,hash=47b79f209323211b65e5421cfbb1f224}{P.K}{P\bibinitperiod}{Andersson}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{2bd73eb8150375126a86f1076cc811ff}
+      \strng{fullhash}{2bd73eb8150375126a86f1076cc811ff}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Konfliktteknikstudier}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.trafitec.dk/sites/default/files/publications/konfliktteknikstudier%20i%20kbh%20bykryds.pdf
+      \endverb
+    \endentry
+    \entry{adf}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=9f879d45b8bbd56573fba74e177c9e65}{Nielsen}{N\bibinitperiod}{Michael\bibnamedelima Aakjer}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Niels Juels Gade 13, 1020 København K., Danmark}%
+      }
+      \list{publisher}{1}{%
+        {Vejdirektoratet}%
+      }
+      \strng{namehash}{9f879d45b8bbd56573fba74e177c9e65}
+      \strng{fullhash}{9f879d45b8bbd56573fba74e177c9e65}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1994}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nye evalueringsmetoder, Konfliktteknik og Adfærdsstudier}
+      \field{year}{1994}
+    \endentry
+    \entry{lovb}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d4fdc8dbccd41b2747b1f6b251cbd6d2}{regering}{r\bibinitperiod}{Danske}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d4fdc8dbccd41b2747b1f6b251cbd6d2}
+      \strng{fullhash}{d4fdc8dbccd41b2747b1f6b251cbd6d2}
+      \field{sortinit}{r}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lovtidende A}
+      \field{year}{2012}
+      \verb{url}
+      \verb http://www.koreskoleservice.dk/Resources/Files/download/vejafm%C3%83%C2%A6rkning/anvendelse/BEKnr801af04-07-2012.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'lovb' (bib/mybib.bib): Invalid format '2015-12-3' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{SP2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=042de903f58cbc089c0f0e4abbd84c24}{Reis}{R\bibinitperiod}{Mag.\bibnamedelimi Simone}{M\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{042de903f58cbc089c0f0e4abbd84c24}
+      \strng{fullhash}{042de903f58cbc089c0f0e4abbd84c24}
+      \field{sortinit}{R}
+      \field{sortinithash}{c7387613477035a752d935acfc3e3ea2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sonnenfelsplatz}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.stadtentwicklung.graz.at/cms/beitrag/10136328/5030273/
+      \endverb
+    \endentry
+    \entry{sonne}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b1ac119c4199b61b5d8cc7ceb870e14d}{Stadtenwicklung}{S\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b1ac119c4199b61b5d8cc7ceb870e14d}
+      \strng{fullhash}{b1ac119c4199b61b5d8cc7ceb870e14d}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sonnefelsplatz}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.stadtentwicklung.graz.at/cms/beitrag/10136328/5030273/
+      \endverb
+    \endentry
+    \entry{Kvale2009}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b5578fd7f23c76ff7fb0d2ece972a5e4}{Svend\bibnamedelima Brinkmann}{S\bibinitperiod\bibinitdelim B\bibinitperiod}{Steinar\bibnamedelima Kvale}{S\bibinitperiod\bibinitdelim K\bibinitperiod}{og}{o\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {København}%
+      }
+      \list{publisher}{1}{%
+        {Hans Reitzels forlag}%
+      }
+      \strng{namehash}{b5578fd7f23c76ff7fb0d2ece972a5e4}
+      \strng{fullhash}{b5578fd7f23c76ff7fb0d2ece972a5e4}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2. udgave}
+      \field{isbn}{978-87-412-5198-1}
+      \field{title}{Interview introduktion til et håndværk}
+      \field{year}{2009}
+    \endentry
+    \entry{ssing2015}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=905dcea3298d01c22003478adbcfeb26}{Team}{T\bibinitperiod}{ELITIS}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{905dcea3298d01c22003478adbcfeb26}
+      \strng{fullhash}{905dcea3298d01c22003478adbcfeb26}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Shared space in Graze (Austria)}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.eltis.org/discover/news/shared-space-graz-austria-0
+      \endverb
+      \warn{\item Datamodel: Entry 'ssing2015' (bib/mybib.bib): Invalid format '2015-12-10"' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{DEFT2006}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8c79a04ad73f4e5e7795bf8aa7a2e662}{Tidende}{T\bibinitperiod}{De\bibnamedelima Europæiske\bibnamedelima Fælleskabs}{D\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8c79a04ad73f4e5e7795bf8aa7a2e662}
+      \strng{fullhash}{8c79a04ad73f4e5e7795bf8aa7a2e662}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{InterregII(2000-2006}
+      \field{urlday}{01}
+      \field{urlmonth}{11}
+      \field{urlyear}{2015}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://eur-lex.europa.eu/content/welcome/about.html
+      \endverb
+    \endentry
+    \entry{busser}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=db290d6545d055ca6cff785cc9c786e2}{Trafik}{T\bibinitperiod}{Aalborg\bibnamedelimb Kommune\bibnamedelima Kollektiv}{A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{db290d6545d055ca6cff785cc9c786e2}
+      \strng{fullhash}{db290d6545d055ca6cff785cc9c786e2}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Oversigtskort Nytorv}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://www.nordjyllandstrafikselskab.dk/media/oversigtskort/nytorv_2015.pdf
+      \endverb
+    \endentry
+    \entry{sweconflict}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=91dcf22ab829df5609f1fe3bc0aca4de}{University}{U\bibinitperiod}{Lund}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{91dcf22ab829df5609f1fe3bc0aca4de}
+      \strng{fullhash}{91dcf22ab829df5609f1fe3bc0aca4de}
+      \field{sortinit}{U}
+      \field{sortinithash}{8145509bd2718876fc77d31fd2cde117}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Swedish Traffic Conflict Technique}
+      \field{urlday}{15}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2009}
+      \verb{url}
+      \verb http://www.tft.lth.se/fileadmin/tft/video_in_traffic/Swedish_conflict_technique.pdf
+      \endverb
+    \endentry
+    \entry{tallinger}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e1886838b96d53d0e64a88f8324ff6f1}{Vejdirektoratet}{V\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \strng{fullhash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Trafiktællinger - Planlægning, udførelse og efterbehandling, Vejledning}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2006}
+      \verb{url}
+      \verb http://vej08.vd.dk/mastra/mastradok/dok/TrafiktaellingerPlanUdfoerEfterb.pdf
+      \endverb
+    \endentry
+    \entry{vejlednigomss2013}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e1886838b96d53d0e64a88f8324ff6f1}{Vejdirektoratet}{V\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \strng{fullhash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{extrayear}{1}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vejledning om anvendelse af Shared Space}
+      \field{urlday}{17}
+      \field{urlmonth}{11}
+      \field{urlyear}{2015}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://vejregler.lovportaler.dk/showdoc.aspx?t=/V1/Navigation/Tillidsmandssystemer/Vejregler/Anlaegsplanlaegning/Trafikarealer+by/Vejgeometri+i+byomrader/&docId=vd-shared-space-full
+      \endverb
+    \endentry
+    \entry{reglershared}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=e1886838b96d53d0e64a88f8324ff6f1}{Vejdirektoratet}{V\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \strng{fullhash}{e1886838b96d53d0e64a88f8324ff6f1}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{extrayear}{2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vejledning om anvendelsen af Shared Space}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://vejregler.lovportaler.dk/showdoc.aspx?t=/V1/Navigation/Tillidsmandssystemer/Vejregler/Anlaegsplanlaegning/Trafikarealer+by/Vejgeometri+i+byomrader/&docId=vd-shared-space-full
+      \endverb
+    \endentry
+    \entry{forbudsskilt2007}{online}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b2aeb7a9708366ae984cd747c983f2b7}{Watto}{W\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{b2aeb7a9708366ae984cd747c983f2b7}
+      \strng{fullhash}{b2aeb7a9708366ae984cd747c983f2b7}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vejskilt- Forbudstavl C55 lokal hastighedsberænsning}
+      \field{urlday}{14}
+      \field{urlmonth}{12}
+      \field{urlyear}{2015}
+      \field{year}{2007}
+      \verb{url}
+      \verb http://www.wattoo.dk/vejskilt-c55-30km-refleks-881060840
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

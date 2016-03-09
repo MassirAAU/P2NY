@@ -1,0 +1,4 @@
+[0] Config.pm:324> INFO - This is Biber 2.1
+[0] Config.pm:327> INFO - Logfile is 'master.blg'
+[81] biber-MSWIN:273> INFO - === %a %b %e, %Y, %H:%M:%S
+[82] Biber.pm:333> INFO - Reading 'master.bcf'

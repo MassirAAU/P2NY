@@ -1,0 +1,59 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {danish}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {0.1}Synopsis}{iii}{section.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Forord}{ix}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Indledning}{3}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Problemformulering}{5}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Afgr\IeC {\ae }nsning}{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Analyse}{7}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}L\IeC {\o }sningforslag}{7}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Sonnenfelsplatz i byen Graz i \IeC {\O }strig kontra Nytorv/\IeC {\O }ster\IeC {\r a}gade i byen Aalborg i Danmark}{9}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Diskussion}{13}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Konklusion}{17}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografi}{19}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Interviews}{23}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {B}\IeC {\r A}DT udregninger}{29}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.1}Cyklernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg:}{29}{subsection.B.0.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.2}\IeC {\r A}DT for cykler fra Boulevarden mod Havnen}{29}{subsection.B.0.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.3}\IeC {\r A}DT for cykler fra Boulevarden mod Nytorv}{30}{subsection.B.0.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.4}\IeC {\r A}DT for cykler fra Nytorv mod Boulevarden}{30}{subsection.B.0.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.5}\IeC {\r A}DT for cykler fra Nytorv mod Havnen}{30}{subsection.B.0.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.6}\IeC {\r A}DT for cykler fra Havnen mod Boulevarden}{30}{subsection.B.0.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.7}\IeC {\r A}DT for cykler fra Havnen mod Nytorv}{31}{subsection.B.0.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.8}Bilernes samlede \IeC {\r A}DT p\IeC {\r a} Nytorv i Aalborg}{31}{subsection.B.0.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.9} \IeC {\r A}DT for biler fra Boulevarden mod Havnen}{31}{subsection.B.0.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.10} \IeC {\r A}DT for biler fra Boulevarden mod Nytorv}{31}{subsection.B.0.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.11} \IeC {\r A}DT for biler fra Nytorv mod Boulevarden}{32}{subsection.B.0.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.12} \IeC {\r A}DT for biler fra Nytorv mod Havnen}{32}{subsection.B.0.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.13} \IeC {\r A}DT for biler fra Havnen mod Boulevarden}{32}{subsection.B.0.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {B.0.14} \IeC {\r A}DT for biler fra Havnen mod Nytorv}{32}{subsection.B.0.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {C}T\IeC {\ae }lleskema}{33}{appendix.C}
